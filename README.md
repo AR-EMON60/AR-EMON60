@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70&size=15&lines=Hello+Guys+!!)
 <br>
-![Typing SVG]https://readme-typing-svg.herokuapp.com?color=%23F70&size=15&lines=I+am+ARE.;I+am+a+program+learner.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70&size=15&lines=I+am+ARE.;I+am+a+program+learner.)
 
 <h2 align="center">GitHub Expert Stats</h2> <p align="center">Python Lover From Bangladesh</p> </p> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats/actions"> <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats/issues"> <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats/pulls"> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" /> </a> <br /> <br /> <a href="https://a.paddle.com/v2/click/16413/119403?link=1227"> <img src="https://img.shields.io/badge/Created%20By-Pandaxak%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/> </a> <a href="https://a.paddle.com/v2/click/16413/119403?link=2345"> </a> </p> <p align="center">                                                                                         
 
